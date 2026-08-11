@@ -8,5 +8,5 @@
 ## What's here
 
 - **[TPM-Case-Studies/](./TPM-Case-Studies)** — how I actually work: launch sequencing, cross-functional delivery under ambiguity, risk management, and translating program health for execs.
-- **[Program-Artifacts/](./Program-Artifacts)** — sanitized, real-shaped examples of the tools I build to run a program (roadmap views, dependency maps, risk registers).
+- **[Program-Artifacts/](./Program-Artifacts)** — sanitized, real-shaped examples of the tools I build to run a program (roadmap views, dependency maps, risk registers).Always a work in progress
 - **[TPM-Song/](./TPM-Song)** — I tried explaining what a TPM actually does in a resume. It wasn't quite enough. So I wrote a song about it too.
