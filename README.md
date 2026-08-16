@@ -33,7 +33,9 @@ Each case study is designed for a two-minute read: the business problem, my mand
 
 These are sanitized, representative artifacts. They preserve the decision structure and operating mechanics while removing company-confidential data, internal system details, and stakeholder identities.
 
-## Leadership Principles
+## How I Lead Programs
+
+Across platform, infrastructure, and transformation programs, five operating principles consistently shape how I work:
 
 - **Turn ambiguity into an operating system.** Define ownership, decision forums, dependencies, and measurable exit criteria.
 - **Make status decision-ready.** Executives need the decision, trade-off, and consequence - not a longer dashboard.
