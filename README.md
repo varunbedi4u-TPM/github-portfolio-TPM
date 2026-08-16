@@ -52,3 +52,7 @@ Across platform, infrastructure, and transformation programs, five operating pri
 ---
 
 All case studies and artifacts are sanitized. They contain no proprietary source code, customer-identifying data, internal documents, or confidential stakeholder information.
+
+## P.S. Something Different
+
+Technical program management is easier to recognize than to explain. I wrote [Remember My Name — The TPM Song](./TPM-Song/) as a more human take on the craft: turning technical risk, competing priorities, and cross-functional complexity into a system teams can execute together.
