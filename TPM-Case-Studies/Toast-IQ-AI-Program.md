@@ -1,6 +1,6 @@
 # Targeted Case Study: Taking an AI Assistant from Insight to Trusted Action
 
-> **Draft for review - not yet published.** This case study synthesizes my relevant AI-enablement and platform-program experience. It does not imply employment by, or access to confidential information from, Toast.
+> **Targeted portfolio case study.** This case study synthesizes my relevant AI-enablement and platform-program experience. It does not imply employment by, or access to confidential information from, Toast.
 
 **Role:** Staff Technical Program Manager
 

@@ -1,6 +1,6 @@
 # Targeted Case Study: Scaling Trust and Safety Governance for a Community Platform
 
-> **Draft for review - not yet published.** This case study describes my relevant experience at a global technology platform company. It does not imply employment by, or access to confidential information from, Reddit.
+> **Targeted portfolio case study.** This case study describes my relevant experience at a global technology platform company. It does not imply employment by, or access to confidential information from, Reddit.
 
 **Role:** Senior Technical Program Manager
 
