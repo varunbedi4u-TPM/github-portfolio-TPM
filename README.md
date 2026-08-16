@@ -1,12 +1,52 @@
-# Varun Bedi — Technical Program Management
+# Varun Bedi - Staff Technical Program Manager
 
-18 years leading large-scale, cross-functional technical programs — platform consolidation, cloud infrastructure transformation, and the compliance/risk work that comes with financial-services-adjacent environments. Currently Staff TPM at Unity, running Program Kraken (unifying 5 ad products, 150+ contributors) and Program Stratus (multi-cloud infrastructure consolidation, ~$19M in annual savings).
+Staff Technical Program Manager with 18+ years leading platform integration, Ads monetization, cloud infrastructure, and enterprise transformation programs. Currently a senior member of Unity Ads Product & Engineering's strategy and operations team.
 
-📄 [Resume](./Varun_Bedi_Resume.pdf)
-🔗 [LinkedIn](https://linkedin.com/in/bedivarun)
+[Resume](./Varun_Bedi_Resume_Latest.pdf) | [LinkedIn](https://linkedin.com/in/bedivarun) | [Email](mailto:varunbedi.it@gmail.com)
 
-## What's here
+## Impact at a Glance
 
-- **[TPM-Case-Studies/](./TPM-Case-Studies)** — how I actually work: launch sequencing, cross-functional delivery under ambiguity, risk management, and translating program health for execs.
-- **[Program-Artifacts/](./Program-Artifacts)** — sanitized, real-shaped examples of the tools I build to run a program (roadmap views, dependency maps, risk registers).Always a work in progress
-- **[TPM-Song/](./TPM-Song)** — I tried explaining what a TPM actually does in a resume. It wasn't quite enough. So I wrote a song about it too.
+| Scope | Evidence |
+|---|---|
+| Multi-product platform delivery | 150+ contributors across seven workstreams |
+| Customer migration | 14,483 Ads organizations representing $26.8M in ad spend migrated |
+| Delivery predictability | On-time delivery improved from 35% to 59% |
+| Roadmap integrity | Missing roadmap data reduced from 27% to 8% |
+| Cloud economics | Cloud programs contributed to $19M in annual savings |
+
+## Selected TPM Case Studies
+
+Each case study is designed for a two-minute read: the business problem, my mandate, the operating mechanism I created, the trade-offs I managed, and the measurable result.
+
+1. [Ads Roadmap Operating System](./TPM-Case-Studies/Ads-Roadmap-Operating-System.md) - governance across 600+ people, 20+ engineering pods, and 2,000+ roadmap records.
+2. [Multi-Product Ads Platform Unification](./TPM-Case-Studies/Multi-Product-Ads-Platform-Unification.md) - seven workstreams, 150+ contributors, five products, and frontend, backend, data-model, and customer migration.
+3. [Ads Cloud Platform Consolidation](./TPM-Case-Studies/Ads-Cloud-Platform-Consolidation.md) - shared infrastructure, governance, support ownership, and culture across previously separate teams.
+4. [Cloud FinOps and Cost-to-Revenue Governance](./TPM-Case-Studies/Cloud-FinOps.md) - cost ownership across infrastructure and ML, tied to business outcomes.
+5. [Enterprise AI Enablement](./TPM-Case-Studies/Enterprise-AI-Enablement.md) - reusable organizational knowledge and AI-assisted program operations.
+
+## Operating Models and Templates
+
+- [Roadmap governance model](./Program-Artifacts/Roadmap-Governance-Model.md)
+- [Cross-product launch readiness review](./Program-Artifacts/Launch-Readiness-Review.md)
+- [Cloud FinOps operating review](./Program-Artifacts/Cloud-FinOps-Review.md)
+- [Enterprise AI rollout scorecard](./Program-Artifacts/Enterprise-AI-Rollout-Scorecard.md)
+
+These are sanitized, representative artifacts. They preserve the decision structure and operating mechanics while removing company-confidential data, internal system details, and stakeholder identities.
+
+## Leadership Principles
+
+- **Turn ambiguity into an operating system.** Define ownership, decision forums, dependencies, and measurable exit criteria.
+- **Make status decision-ready.** Executives need the decision, trade-off, and consequence - not a longer dashboard.
+- **Scale through mechanisms, not heroics.** Build repeatable governance that teams can use without constant TPM intervention.
+- **Tie technical programs to business outcomes.** Reliability, cost, compliance, adoption, and revenue belong in the same program model.
+- **Earn alignment without relying on authority.** Make the shared mechanism valuable enough that independent teams choose to use it.
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/bedivarun)
+- [Email](mailto:varunbedi.it@gmail.com)
+- Location: Ashburn, Virginia
+
+---
+
+All case studies and artifacts are sanitized. They contain no proprietary source code, customer-identifying data, internal documents, or confidential stakeholder information.
