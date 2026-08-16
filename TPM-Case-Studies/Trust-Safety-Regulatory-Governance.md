@@ -1,11 +1,11 @@
-# Targeted Case Study: Scaling Trust and Safety Governance for a Community Platform
+# Scaling Trust and Safety Governance for a Community Platform
 
-> **Targeted portfolio case study.** This case study describes my relevant experience at a global technology platform company. It does not imply employment by, or access to confidential information from, Reddit.
+> **Sanitized portfolio case study.** This document describes my experience at a global technology platform company. Company, product, system, and stakeholder identities have been removed.
 
 **Role:** Senior Technical Program Manager
 
 **Relevant domain:** User-generated content, regulatory readiness, cross-functional platform governance
-**Why it is relevant to Reddit:** Community platforms must move quickly while giving Product, Engineering, Legal, Policy, and Operations a shared way to manage safety and regulatory obligations.
+**Program theme:** Community platforms must move quickly while giving Product, Engineering, Legal, Policy, and Operations a shared way to manage safety and regulatory obligations.
 
 ## Situation
 
@@ -30,9 +30,9 @@ I was responsible for turning a broad regulatory mandate into an executable tech
 - Reduced ambiguity around moderation and appeals by making thresholds, ownership, and escalation paths explicit.
 - Established a reusable model for programs where policy, product behavior, and technical implementation must evolve together.
 
-## How I would apply this at Reddit
+## Transferable operating principles
 
-Reddit's product depends on the health of a large, diverse community ecosystem. The transferable lesson from this program is that trust and safety cannot operate as a review step after product decisions are made. A TPM adds leverage by connecting policy intent to technical requirements, instrumentation, operational readiness, and clear decision forums - while preserving room for product teams and community experts to solve the problem well.
+The transferable lesson is that trust and safety cannot operate as a review step after product decisions are made. A TPM adds leverage by connecting policy intent to technical requirements, instrumentation, operational readiness, and clear decision forums—while preserving room for product teams and domain experts to solve the problem well.
 
 ## What I'd tell you if you asked in an interview
 
@@ -40,4 +40,4 @@ The hardest part was not interpreting a regulation. It was building a shared ope
 
 ## Sanitization note
 
-Company, product, system, and stakeholder names have been removed. The narrative uses only experience already represented in my professional history; no Reddit confidential information is included.
+Company, product, system, and stakeholder names have been removed. The narrative uses only experience already represented in my professional history; no prospective employer information is used.

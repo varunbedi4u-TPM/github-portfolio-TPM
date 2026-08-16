@@ -1,11 +1,11 @@
-# Targeted Case Study: Taking an AI Assistant from Insight to Trusted Action
+# Taking an AI Assistant from Insight to Trusted Action
 
-> **Targeted portfolio case study.** This case study synthesizes my relevant AI-enablement and platform-program experience. It does not imply employment by, or access to confidential information from, Toast.
+> **Sanitized portfolio case study.** This document synthesizes my AI-enablement and platform-program experience. Company, product, system, and stakeholder identities have been removed.
 
 **Role:** Staff Technical Program Manager
 
 **Relevant domain:** Enterprise AI enablement, knowledge systems, cross-product platform delivery
-**Why it is relevant to Toast IQ:** An embedded AI assistant succeeds when useful intelligence, safe actions, reliable platform integrations, and user trust mature together.
+**Program theme:** An embedded AI assistant succeeds when useful intelligence, safe actions, reliable platform integrations, and user trust mature together.
 
 ## Situation
 
@@ -31,9 +31,9 @@ I led program work that addressed both sides of the problem: making AI-generated
 - Reduced the need to re-derive the same context in each AI session, improving efficiency and lowering avoidable AI usage cost.
 - Created a repeatable program model for scaling AI capabilities alongside the platform, data, permissions, and operating controls they depend on.
 
-## How I would apply this to Toast IQ
+## Transferable operating principles
 
-Toast publicly positions Toast IQ as an intelligence layer that can surface insights and take action across restaurant workflows. The TPM challenge is therefore broader than shipping a conversational interface: each new capability needs dependable data, explicit permissions, safe execution, observability, rollback paths, and a rollout plan that earns operator trust. I would organize delivery around end-to-end user outcomes - for example, detect an inventory issue, explain the recommendation, obtain the right confirmation, execute the change, and verify that every affected channel reflects it.
+The TPM challenge is broader than shipping a conversational interface: each new capability needs dependable data, explicit permissions, safe execution, observability, rollback paths, and a rollout plan that earns user trust. I organize delivery around end-to-end outcomes—for example, detect an operational issue, explain the recommendation, obtain the right confirmation, execute a bounded change, and verify the result across affected systems.
 
 ## What I'd tell you if you asked in an interview
 
@@ -41,4 +41,4 @@ AI assistants become valuable when they stop being impressive demos and become d
 
 ## Sanitization note
 
-Company, internal assistant, product, system, and stakeholder names have been removed. Quantitative claims are limited to figures already represented in my professional portfolio. Public Toast IQ context is used only to explain relevance; no Toast confidential information is included.
+Company, internal assistant, product, system, and stakeholder names have been removed. Quantitative claims are limited to figures already represented in my professional portfolio; no prospective employer information is used.
