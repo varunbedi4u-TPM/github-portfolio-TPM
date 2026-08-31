@@ -2,7 +2,7 @@
 
 Staff Technical Program Manager with 18+ years leading platform integration, Ads monetization, cloud infrastructure, and enterprise transformation programs. Currently a senior member of Unity Ads Product & Engineering's strategy and operations team.
 
-[Resume](./Varun_Bedi_Resume_Latest.pdf) | [LinkedIn](https://linkedin.com/in/bedivarun) | [Email](mailto:varunbedi.it@gmail.com)
+[Selected Program Portfolio](https://varunbedi4u-tpm.github.io/github-portfolio-TPM/) | [Resume](./Varun_Bedi_Resume_Latest.pdf) | [LinkedIn](https://linkedin.com/in/bedivarun) | [Email](mailto:varunbedi.it@gmail.com)
 
 ## Impact at a Glance
 
