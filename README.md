@@ -1,8 +1,8 @@
-# Varun Bedi - Staff Technical Program Manager
+# Varun Bedi - Technical Program Leader
 
-Staff Technical Program Manager with 18+ years leading platform integration, Ads monetization, cloud infrastructure, and enterprise transformation programs. Currently a senior member of Unity Ads Product & Engineering's strategy and operations team.
+Technical Program Leader with 18+ years leading platform integration, Ads monetization, cloud infrastructure, and enterprise transformation programs.
 
-[Selected Program Portfolio](https://varunbedi4u-tpm.github.io/github-portfolio-TPM/) | [Resume](./Varun_Bedi_Resume_Latest.pdf) | [LinkedIn](https://linkedin.com/in/bedivarun) | [Email](mailto:varunbedi.it@gmail.com)
+[Technical Program Leadership Portfolio](https://varunbedi4u-tpm.github.io/github-portfolio-TPM/) | [Resume](./Varun_Bedi_Resume_Latest.pdf) | [LinkedIn](https://linkedin.com/in/bedivarun) | [Email](mailto:varunbedi.it@gmail.com)
 
 ## Impact at a Glance
 
@@ -31,7 +31,7 @@ Each case study is designed for a two-minute read: the business problem, my mand
 - [Cloud FinOps operating review](./Program-Artifacts/Cloud-FinOps-Review.md)
 - [Enterprise AI rollout scorecard](./Program-Artifacts/Enterprise-AI-Rollout-Scorecard.md)
 
-These are sanitized, representative artifacts. They preserve the decision structure and operating mechanics while removing company-confidential data, internal system details, and stakeholder identities.
+These representative artifacts are based on programs I led. Identifying details have been generalized to protect confidential information while preserving the decision structures and operating mechanics.
 
 ## How I Lead Programs
 
@@ -39,7 +39,7 @@ Across platform, infrastructure, and transformation programs, five operating pri
 
 - **Turn ambiguity into an operating system.** Define ownership, decision forums, dependencies, and measurable exit criteria.
 - **Make status decision-ready.** Executives need the decision, trade-off, and consequence - not a longer dashboard.
-- **Scale through mechanisms, not heroics.** Build repeatable governance that teams can use without constant TPM intervention.
+- **Scale through mechanisms, not heroics.** Build repeatable governance that supports distributed ownership and reduces manual coordination.
 - **Tie technical programs to business outcomes.** Reliability, cost, compliance, adoption, and revenue belong in the same program model.
 - **Earn alignment without relying on authority.** Make the shared mechanism valuable enough that independent teams choose to use it.
 
@@ -48,10 +48,6 @@ Across platform, infrastructure, and transformation programs, five operating pri
 - [LinkedIn](https://linkedin.com/in/bedivarun)
 - [Email](mailto:varunbedi.it@gmail.com)
 - Location: Ashburn, Virginia
-
----
-
-All case studies and artifacts are sanitized. They contain no proprietary source code, customer-identifying data, internal documents, or confidential stakeholder information.
 
 ## P.S. Something Different
 
