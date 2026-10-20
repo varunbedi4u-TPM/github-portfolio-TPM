@@ -43,6 +43,17 @@ Across platform, infrastructure, and transformation programs, five operating pri
 - **Tie technical programs to business outcomes.** Reliability, cost, compliance, adoption, and revenue belong in the same program model.
 - **Earn alignment without relying on authority.** Make the shared mechanism valuable enough that independent teams choose to use it.
 
+## Certifications & Continued Learning
+
+Continued learning supports my program experience across cloud transformation, FinOps, and AI-enabled workflows.
+
+| Credential or training | Issuer | Details |
+|---|---|---|
+| [FinOps Certified Practitioner](https://verify.skilljar.com/c/z38svyhzy6jr) | FinOps Foundation | Valid October 2026–October 2028 |
+| AI Leader | Nebius Academy | Certification earned in 2026 |
+| Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | Certification |
+| AI Infrastructure and Operations Fundamentals | NVIDIA | Training completed in 2026 |
+
 ## Contact
 
 - [LinkedIn](https://linkedin.com/in/bedivarun)
